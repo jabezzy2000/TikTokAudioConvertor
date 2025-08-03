@@ -1,11 +1,11 @@
-🎵 TikTok Audio Converter
+🎵 TikTok & YT Audio Converter
 
 >One bus ride. One perfect TikTok cover. One Saturday project.
 
 While heading home, I came across a beautiful cover of one of my favorite songs on TikTok—and all I wanted was to save that audio and loop it forever. I’m sure there are tools out there already, but I figured: why not build my own solution and learn C# along the way?
 
 This is a command-line tool that:
-	•	Accepts a TikTok video link
+	•	Accepts a TikTok or Youtube video link
 	•	Downloads the video
 	•	Converts it to audio (.wav)
 	•	Embeds metadata (title, uploader, original TikTok URL)
@@ -30,7 +30,7 @@ dotnet build
 dotnet run
 
 
-4.	Paste any TikTok link when prompted.
+4.	Paste any TikTok or Youtube link when prompted.
    
 5.	The tool will:
 	•	Download the video
