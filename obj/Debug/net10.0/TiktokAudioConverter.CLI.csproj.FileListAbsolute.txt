@@ -15,3 +15,4 @@
 /Users/jabez/Desktop/TiktokAudioConverter.CLI/bin/Debug/net10.0/TagLibSharp.dll
 /Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.csproj.AssemblyReference.cache
 /Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAu.6F972F4B.Up2Date
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.sourcelink.json

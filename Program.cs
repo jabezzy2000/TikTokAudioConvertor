@@ -53,10 +53,6 @@ public class Converter
         }
 
         
-        
-        // validate + download using tiktok downloader
-        // extract audio using audioconverter
-        // print metadata using meta datasaver
     }
 
 }

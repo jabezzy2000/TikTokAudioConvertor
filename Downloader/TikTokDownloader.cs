@@ -43,7 +43,7 @@ public class DownloadResult
 
 public class TikTokDownloader
 {
-   private string _savePath = "/Users/jabez/Desktop/TiktokAudioConverter.CLI/VideoAudioLibrary";
+   private string _savePath = "VideoAudioLibrary";
    public DownloadResult? DownloadVideo(string link)
    
    {
@@ -76,7 +76,7 @@ public class TikTokDownloader
             return null;
          }
 
-         Console.WriteLine("yt-dlp output:\n" + filePath);
+         
          var result = new DownloadResult
          {
             VideoPath = filePath,

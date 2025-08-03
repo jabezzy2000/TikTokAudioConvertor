@@ -7,7 +7,7 @@ namespace TiktokAudioConverter.AudioExtractor;
 
 public class AudioConverter
 {
-   private readonly string _audioOutputFolder = "/Users/jabez/Desktop/TiktokAudioConverter.CLI/VideoAudioLibrary/Audio";
+   private readonly string _audioOutputFolder = "/VideoAudioLibrary/Audio";
 
    private void _ImputeMetaData(string audioPath, DownloadResult meta)
    {
