@@ -7,7 +7,10 @@ namespace TiktokAudioConverter.AudioExtractor;
 
 public class AudioConverter
 {
-   private readonly string _audioOutputFolder = "/VideoAudioLibrary/Audio";
+   private readonly string _audioOutputFolder = Path.GetFullPath(
+      Path.Combine(AppContext.BaseDirectory, "..", "..", "..", "VideoAudioLibrary", "Audio")
+   );
+ 
 
    private void _ImputeMetaData(string audioPath, DownloadResult meta)
    {

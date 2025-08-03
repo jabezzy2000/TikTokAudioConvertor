@@ -43,12 +43,13 @@ public class DownloadResult
 
 public class TikTokDownloader
 {
-   private string _savePath = "/VideoAudioLibrary";
+   private  string _savePath = Path.Combine(AppContext.BaseDirectory, "..", "..", "..", "VideoAudioLibrary");
    public DownloadResult? DownloadVideo(string link)
    
    {
       try
       {
+         _savePath = Path.GetFullPath(_savePath);
          Directory.CreateDirectory(_savePath);
          var args = $"-o \"{_savePath}/%(title)s.%(ext)s\" --restrict-filenames --no-playlist --print after_move:filepath --write-info-json {link}"; 
          var process = new Process

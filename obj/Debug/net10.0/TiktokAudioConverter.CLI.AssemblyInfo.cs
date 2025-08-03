@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiktokAudioConverter.CLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3283a6cb1f90fa36cd71db76773a86ee06f9fa30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c043edea603f7988335ca3c6a6d711014fe8f282")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiktokAudioConverter.CLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiktokAudioConverter.CLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
