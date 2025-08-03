@@ -1,0 +1,17 @@
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.AssemblyInfoInputs.cache
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.AssemblyInfo.cs
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.csproj.CoreCompileInputs.cache
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/bin/Debug/net10.0/TiktokAudioConverter.CLI
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/bin/Debug/net10.0/TiktokAudioConverter.CLI.deps.json
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/bin/Debug/net10.0/TiktokAudioConverter.CLI.runtimeconfig.json
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/bin/Debug/net10.0/TiktokAudioConverter.CLI.dll
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/bin/Debug/net10.0/TiktokAudioConverter.CLI.pdb
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.dll
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/refint/TiktokAudioConverter.CLI.dll
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.pdb
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.genruntimeconfig.cache
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/ref/TiktokAudioConverter.CLI.dll
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/bin/Debug/net10.0/TagLibSharp.dll
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAudioConverter.CLI.csproj.AssemblyReference.cache
+/Users/jabez/Desktop/TiktokAudioConverter.CLI/obj/Debug/net10.0/TiktokAu.6F972F4B.Up2Date
